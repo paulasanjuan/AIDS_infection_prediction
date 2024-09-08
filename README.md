@@ -36,8 +36,7 @@ Before training the model, the following steps were taken to preprocess the data
 - Train-test split to evaluate model performance.
   
 ### Model
-- Logistic Regression
+Hyperparameter tuning and cross-validation have been employed to optimize the model's performance.
 - Random Forest
-- Support Vector Machines (SVM)
 - Neural Networks
-- Hyperparameter tuning and cross-validation have been employed to optimize the model's performance.
+- Results with Feature Engineering 
